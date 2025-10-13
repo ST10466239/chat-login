@@ -1,2 +1,2 @@
-# chat-login
-prog assignment chat login
+# quichchat
+prog assignment quickchat
