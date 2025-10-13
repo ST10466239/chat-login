@@ -1,2 +1,2 @@
-# quichchat
+# quickchat
 prog assignment quickchat
